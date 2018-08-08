@@ -1,0 +1,17 @@
+{% set title = 'Email Title' %}
+
+{% extends "layouts/_main.mjml" %}
+
+{% block content %}
+    <mj-section padding="10px 10px 0 10px" background-color="#FFFFFF">
+        <mj-column width="100%">
+            <mj-text align="left" font-weight="500">
+                Hi {{ name }}
+            </mj-text>
+
+            <mj-text align="left" font-weight="500">
+                Nunc interdum lacus sit amet orci. Nullam tincidunt adipiscing enim.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+{% endblock %}

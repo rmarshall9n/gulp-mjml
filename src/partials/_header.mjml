@@ -1,0 +1,13 @@
+<mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
+    <mj-column>
+        <mj-text align="center" font-weight="300" padding="30px 40px 10px 40px" font-size="32px" line-height="40x" color="#0a8fd5">
+            {{ title }}
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section padding="10px 20px" background-color="#FFFFFF">
+    <mj-column>
+        <mj-divider width="10%" border-width="3px" border-color="#9B9B9B"></mj-divider>
+    </mj-column>
+</mj-section>

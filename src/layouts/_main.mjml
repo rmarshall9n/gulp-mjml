@@ -1,0 +1,13 @@
+<mjml>
+    <mj-head>
+        {% include "../partials/_head.mjml" %}
+    </mj-head>
+
+    <mj-body background-color="#eee">
+        {% include "../partials/_header.mjml" %}
+
+        {% block content %}{% endblock %}
+    </mj-body>
+
+    {% include "../partials/_header.mjml" %}
+</mjml>

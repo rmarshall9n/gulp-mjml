@@ -1,0 +1,5 @@
+<mj-section padding="10px 0px 10px 0px">
+  <mj-column>
+    <mj-text align="center" color="#9B9B9B" font-weight="600" line-height="15px" font-size="11px">Footer text here - Duis vel nibh at velit scelerisque suscipit. Pellentesque commodo eros a enim.</a></mj-text>
+  </mj-column>
+</mj-section>
